@@ -41,7 +41,7 @@ This project addresses another businees problem In this context, I see myself as
 [EDA notebook](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/eda-financial-consumer-data.ipynb)
 
 # Usage
-Download the final dashboard from [Here]([./Pizza%20restaurant.pbix](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/FInancial%20consumer%20project.pbix)https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/FInancial%20consumer%20project.pbix)
+Download the final dashboard from [Here](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/FInancial%20consumer%20project.pbix)
 
 Download the dataset from [Here](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/Financial_Consumer_data111.csv)
 
