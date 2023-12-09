@@ -9,7 +9,7 @@
 The project aims to analyze the Financial-Consumer dataset to derive insights and facilitate data-driven decision-making for anyone interested in data analysis and dashboards using Pyhton and Power BI.
 
 # Overview Dashboard
-![Dashboard](dashboard0.png)
+![Dashboard](Dashboard0.png)
 
 This project addresses another businees problem In this context, I see myself as a data analyst employed at a news financial service company. The task involves visualizing data to help readers comprehend how countries have historically performed in Financial-Consuming.
 
