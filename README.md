@@ -6,7 +6,7 @@
 5. **Usage**
 
 # Intoduction
-The project aims to analyze the Financial-Consumer dataset to derive insights and facilitate data-driven decision-making for anyone interested in data analysis and dashboards using Pyhton and Power BI.
+The project aims to analyze the Financial-Consumer dataset to derive insights and facilitate data-driven decision-making for anyone interested in data analysis and dashboards using Pyhton and Power BI.📈
 
 # Overview Dashboard
 ![Dashboard](Dashboard0.png)
@@ -24,3 +24,21 @@ This project addresses another businees problem In this context, I see myself as
 
 
 # Dataset
+![Dataset](dataset.png)
+
+
+# EDA-Financial-Consumer-Data Notebook
+
+**EDA and data cleaning**
+1. Drop unnecessary columns
+2. Replace some missing values
+3. Remove duplicates
+4. Replace messing values with predictive values using KNN algorithm
+5. Use erangleing function
+6. Upload the final data to Power BI
+
+**Notebook**
+[EDA notebook](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/eda-financial-consumer-data.ipynb)
+
+# Usage
+to use this project you should upload the final dashboard from [Here]([./Pizza%20restaurant.pbix](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/FInancial%20consumer%20project.pbix)https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/FInancial%20consumer%20project.pbix)
