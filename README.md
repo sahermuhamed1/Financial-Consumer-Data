@@ -45,4 +45,4 @@ Download the final dashboard from [Here]([./Pizza%20restaurant.pbix](https://git
 
 Download the dataset from [Here](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/Financial_Consumer_data111.csv)
 
-Download the notebook from [Here]([https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/Financial_Consumer_data111.csv](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/eda-financial-consumer-data.ipynb)https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/eda-financial-consumer-data.ipynb)
+Download the notebook from [Here](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/eda-financial-consumer-data.ipynb)
