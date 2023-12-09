@@ -15,7 +15,7 @@ This project addresses another businees problem In this context, I see myself as
 
 **To resolve this business problem, I followed several steps:**
 
-1. Cleaning data in Jupyter Notebook.
+1. Cleaning data in kaggle notebook.
 2. Exploratory Data Analysis (EDA) using Python.
 3. Utilizing the KNN algorithm to predict the missing values.
 4. Importing the output data to Power BI.
@@ -37,8 +37,12 @@ This project addresses another businees problem In this context, I see myself as
 5. Use erangleing function
 6. Upload the final data to Power BI
 
-**Notebook**
+**Kaggle Notebook**
 [EDA notebook](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/eda-financial-consumer-data.ipynb)
 
 # Usage
-to use this project you should upload the final dashboard from [Here]([./Pizza%20restaurant.pbix](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/FInancial%20consumer%20project.pbix)https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/FInancial%20consumer%20project.pbix)
+Download the final dashboard from [Here]([./Pizza%20restaurant.pbix](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/FInancial%20consumer%20project.pbix)https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/FInancial%20consumer%20project.pbix)
+
+Download the dataset from [Here](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/Financial_Consumer_data111.csv)
+
+Download the notebook from [Here]([https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/Financial_Consumer_data111.csv](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/eda-financial-consumer-data.ipynb)https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/eda-financial-consumer-data.ipynb)
