@@ -1,4 +1,4 @@
-# Table of Contents
+![image](https://github.com/sahermuhamed1/Financial-Consumer-Data/assets/123556453/a92ec741-b025-4a90-8780-3eaad4c96bff)# Table of Contents
 1. **Introduction**
 2. **Overview Dashboard**
 4. **Dataset**
@@ -46,3 +46,7 @@ Download the final dashboard from [Here](https://github.com/sahermuhamed1/Financ
 Download the dataset from [Here](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/Financial_Consumer_data111.csv)
 
 Download the notebook from [Here](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/eda-financial-consumer-data.ipynb)
+
+# Contact info
+For inquiries or further collaboration, please contact Abdelrahman Ashour at [abdoashour4040@gmail.com] and Saher Mohammed at [sahermuhamed176@gmail.com].
+
