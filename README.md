@@ -48,5 +48,5 @@ Download the dataset from [Here](https://github.com/sahermuhamed1/Financial-Cons
 Download the notebook from [Here](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/eda-financial-consumer-data.ipynb)
 
 # Contact info
-For inquiries or further collaboration, please contact Abdelrahman Ashour at [abdoashour4040@gmail.com] and Saher Mohammed at [sahermuhamed176@gmail.com].
+For inquiries or further collaboration, please contact Saher Mohammed at [sahermuhamed176@gmail.com] and Abdelrahman Ashour at [abdoashour4040@gmail.com].
 
