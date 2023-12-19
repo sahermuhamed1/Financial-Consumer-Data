@@ -50,3 +50,5 @@ Download the notebook from [Here](https://github.com/sahermuhamed1/Financial-Con
 # Contact info
 For inquiries or further collaboration, please contact Saher Mohammed at [sahermuhamed176@gmail.com] and Abdelrahman Ashour at [abdoashour4040@gmail.com].
 
+[Saher's Linkdin](https://www.linkedin.com/in/sahermuhamed/)
+
