@@ -7,7 +7,8 @@
 
 # Intoduction
 The project aims to analyze the Financial-Consumer dataset to derive insights and facilitate data-driven decision-making for anyone interested in data analysis and dashboards using Pyhton and Power BI.📈
-to get the project presentation click [Here](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/Financial%20Consumer.pptx)
+
+To get the project presentation click [Here](https://github.com/sahermuhamed1/Financial-Consumer-Data/blob/main/Financial%20Consumer.pptx)
 
 # Overview Dashboard
 ![Dashboard](Dashboard0.png)
