@@ -3,7 +3,7 @@
 2. **Overview Dashboard**
 4. **Dataset**
 5. **EDA-Financial-Consumer-Data Notebook**
-6. **Usage**
+6. **The Usage**
 
 # Intoduction
 The project aims to analyze the Financial-Consumer dataset to derive insights and facilitate data-driven decision-making for anyone interested in data analysis and dashboards using Pyhton and Power BI.📈
